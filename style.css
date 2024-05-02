@@ -1,0 +1,102 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  
+        font-family: "Rowdies", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+  
+    
+        font-family: "Rowdies", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+ 
+      
+      
+}
+
+body{
+  background: url(img1.png);
+ display: flex;
+ width: 100%;
+ height: 100vh;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+
+.contanier{
+
+background-color: rgb(254, 255, 254);
+
+display: block;
+margin-left: 370px;
+margin-top: 200px;
+width: 600px;
+border-radius: 30px;
+height: 450px;
+text-align: center;
+padding: 40px;
+}
+.botoes{
+
+    padding: 30px;
+}
+
+.boto{
+
+    padding: 30px;
+    font-size: 55px;
+    cursor: pointer;
+    border: none;
+    border-radius:20px ;
+}
+
+#pedra {
+    background-color: rgb(8, 80, 32);
+        
+    }
+    
+
+#pedra:hover {
+background-color: rgb(10, 168, 63);
+    
+}
+#papel {
+    background-color: rgb(255, 125, 4);
+        
+    }
+
+#papel:hover {
+    background-color: rgb(228, 90, 10);
+        
+    }
+
+    #tesoura:hover {
+        background-color: rgb(138, 64, 3);
+            
+        }
+        #tesoura {
+            background-color: rgb(102, 50, 7);
+                
+            }
+        .meuresultado {
+         color: rgb(6, 240, 18);
+        }
+
+        .resultadomaquina {
+            color: rgb(240, 6, 6);
+           }
+
+           
