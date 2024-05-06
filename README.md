@@ -5,7 +5,7 @@
 <a href="#IF">  If, Else e Else If </a> <br>
 <a href="#Funções"> Funções</a> <br>
 <a href="#imagem">Imagem do projeto </a><br>
-<a href="giovana1309.github.io/JOGO-DEVCLUB/"> Visite o Projeto</a> <br>
+<a href="https://giovana1309.github.io/JOGO-DEVCLUB/"> Visite o Projeto</a> <br>
 
 <h1> Projeto Starbucks - Primeiro contato com HTML e CSS </h1>
  
@@ -17,11 +17,11 @@
  <h2> 
 Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> Este projeto teve como objetivo colocar em prática os conceitos aprendidos em JavaScript, criando um jogo de Pedra, Papel e Tesoura com pontuação entre os jogadores, a máquina e o usuário. O diferencial deste projeto foi a geração das imagens por meio de uma IA. Além disso, as escolhas feitas pelo usuário e pela IA são exibidas na tela. Conforme o jogo avança, as imagens também são atualizadas. Projeto está disponível para celulares computadores e table</h2>
 <br>
-- **Funções:** Na programação, as funções são como mágicos que realizam tarefas específicas quando invocadas. Elas organizam nosso código e podem até retornar resultados!
+- Funções:Na programação, as funções são como mágicos que realizam tarefas específicas quando invocadas. Elas organizam nosso código e podem até retornar resultados!
 <br>
-- **Estruturas de controle (if, else, else if):** Essas estruturas são fundamentais para tomar decisões inteligentes no código. Elas nos ajudaram a criar caminhos lógicos para nosso jogo.
+- Estruturas de controle (if, else, else if):Essas estruturas são fundamentais para tomar decisões inteligentes no código. Elas nos ajudaram a criar caminhos lógicos para nosso jogo.
 <br>
-- **Math.random e Math.floor:** Essas funções foram essenciais para criar aleatoriedade e arredondamento, dando vida ao nosso jogo!
+- Math.random e Math.floor:Essas funções foram essenciais para criar aleatoriedade e arredondamento, dando vida ao nosso jogo!
 - <br>
 
 <h1 id="tecnologias"> Métodos Ultilizados </h1>
@@ -66,8 +66,6 @@ Em JavaScript, funções são blocos de código que podem ser nomeados e reutili
 4. **Passagem de parâmetros:** As funções podem receber parâmetros como entrada, permitindo que elas sejam personalizadas para diferentes situações. Isso torna as funções mais flexíveis e reutilizáveis.
 
 5. **Retorno de valores:** As funções podem retornar um valor como resultado de sua execução. Isso permite que elas produzam resultados que podem ser usados em outras partes do programa.
-
-Em resumo, as funções são blocos de construção fundamentais em JavaScript e em muitas outras linguagens de programação. Elas fornecem uma maneira de estruturar o código, promover a reutilização e facilitar a manutenção e a depuração.
 
 
 <h1 id="imagem"> Imagem do projeto </h1>
