@@ -15,13 +15,19 @@
 <h1 id="objetivo"> Objetivo </h1>
  
  <h2> 
-Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> Este projeto teve como objetivo colocar em prática os conceitos aprendidos em JavaScript, criando um jogo de Pedra, Papel e Tesoura com pontuação entre os jogadores, a máquina e o usuário. O diferencial deste projeto foi a geração das imagens por meio de uma IA. Além disso, as escolhas feitas pelo usuário e pela IA são exibidas na tela. Conforme o jogo avança, as imagens também são atualizadas. Projeto está disponível para celulares computadores e table</h2>
+Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a>  com o objetivo colocar em prática os conceitos aprendidos em JavaScript, criando um jogo de Pedra, Papel e Tesoura com pontuação entre os jogadores, a máquina e o usuário. O diferencial deste projeto foi a geração das imagens por meio de uma IA. Além disso, as escolhas feitas pelo usuário e pela IA são exibidas na tela. Conforme o jogo avança, as imagens também são atualizadas. Projeto está disponível para celulares computadores e table</h2>
 <br>
+
 - Funções:Na programação, as funções são como mágicos que realizam tarefas específicas quando invocadas. Elas organizam nosso código e podem até retornar resultados!
+  
 <br>
+
 - Estruturas de controle (if, else, else if):Essas estruturas são fundamentais para tomar decisões inteligentes no código. Elas nos ajudaram a criar caminhos lógicos para nosso jogo.
+  
 <br>
+
 - Math.random e Math.floor:Essas funções foram essenciais para criar aleatoriedade e arredondamento, dando vida ao nosso jogo!
+  
 - <br>
 
 <h1 id="tecnologias"> Métodos Ultilizados </h1>
