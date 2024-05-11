@@ -7,7 +7,7 @@
 <a href="#imagem">Imagem do projeto </a><br>
 <a href="https://giovana1309.github.io/JOGO-DEVCLUB/"> Visite o Projeto</a> <br>
 
-<h1> Projeto Starbucks - Primeiro contato com HTML e CSS </h1>
+
  
  <br>
 
