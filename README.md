@@ -28,7 +28,7 @@ Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevCl
 
 - Math.random e Math.floor:Essas funções foram essenciais para criar aleatoriedade e arredondamento, dando vida ao nosso jogo!
   
-- <br>
+ <br>
 
 <h1 id="tecnologias"> Métodos Ultilizados </h1>
 <br>
